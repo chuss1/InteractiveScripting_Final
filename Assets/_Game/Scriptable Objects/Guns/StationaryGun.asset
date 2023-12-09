@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6171219ec6ac9cb48bbd54a3e3aa8b07, type: 3}
+  m_Name: StationaryGun
+  m_EditorClassIdentifier: 
+  forPlayer: 0
+  Type: 2
+  Name: Stationary Gun
+  SpawnPoint: {x: 0, y: 0, z: 0}
+  SpawnRotation: {x: 0, y: 0, z: 0}
+  gunShotSFX: {fileID: 0}
+  animator: {fileID: 0}
+  damageConfig: {fileID: 11400000, guid: 751dbc676dfcff1459f5227dd0bb8388, type: 2}
+  shootConfig: {fileID: 11400000, guid: 1c2f6aea48f3e75409aee64a51df7c9f, type: 2}
+  trailConfig: {fileID: 11400000, guid: 4f6addccf7025c3409c8556b2baa3804, type: 2}
